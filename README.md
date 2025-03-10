@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fadi Nouira! 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FediNouira&show_icons=true&theme=radical" alt="GitHub Stats" />
+ <img src="https://komarev.com/ghpvc/?username=fadinouira&label=Views&color=blue&style=plastic" alt="fadinouira" />
 </p>
 
 ## 🚀 About Me
@@ -13,24 +13,27 @@
 
 ## 🛠 Tech Stack
 
-### **Frontend**
-- React.js, Next.js, Stencil.js  
-- Material-UI, Styled-components, Tailwind, Bootstrap  
-- Redux, Redux Toolkit, React Hook Form, Formik  
-- JavaScript, TypeScript, Sass, CSS  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/stencil/stencil.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bitbucket/bitbucket.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/storybook/storybook.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwindcss/tailwindcss.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/material-ui/material-ui.png"></code>
 
-### **Backend**
-- Node.js, NestJS, Express.js  
-- PostgreSQL, MySQL, MongoDB, Sequelize  
-- WebSockets, REST APIs, GraphQL  
 
-### **Dev Tools & Workflow**
-- Git, GitHub, Bitbucket, GitLab  
-- Docker, Nginx  
-- Vite, Yarn, Pnpm  
-- GitHub Actions, CI/CD  
-
-## 📌 Notable Projects  
+## 📦 Npm Packages
 🔹 **[React Country Flag](https://www.npmjs.com/package/@fadi-ui/react-country-flag)** – An optimized NPM package for displaying flags  
 
 ## 📫 Connect with Me
