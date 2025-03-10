@@ -17,7 +17,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/stencil/stencil.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
@@ -27,10 +26,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bitbucket/bitbucket.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/storybook/storybook.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwindcss/tailwindcss.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/material-ui/material-ui.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/styled-components/styled-components.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
 
 
 ## 📦 Npm Packages
